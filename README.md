@@ -1,2 +1,2 @@
-# SelfDrivingCar-Perception-Project
-ROB535 SelfDrivingCar Final Project Perception Part
+# ROB535 Self Driving Car Final Project Perception Part
+Team 15 🚗
